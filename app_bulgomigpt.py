@@ -15,7 +15,7 @@ st.markdown(
 <style>
     .st-emotion-cache-4oy321 {
         flex-direction: row-reverse;
-        text-align: right;
+        text-align: left;    # 챗봇 문자 정렬
     }
 </style>
 """,
